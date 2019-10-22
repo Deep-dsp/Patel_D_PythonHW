@@ -8,7 +8,7 @@ Clone the project, navigate to the correct directory, - cd directory name - and 
 
 The rules are the same as the classic game:
 
-1. Papaer covers Rock
+1. Paper covers Rock
 2. Scissors cuts Paper
 3. Rock smashes Scissors
 
