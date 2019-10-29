@@ -88,7 +88,7 @@ while player is False:
 
 	elif computer_lives is 0:
 		print("computer lives is out of lives! you suck at this game. would you like to play it again?")
-		choice = input("Y / N")
+		choice = input("Y / N\n")
 		print(choice)
 
 		if (choice is "N") or (choice is "n"):
